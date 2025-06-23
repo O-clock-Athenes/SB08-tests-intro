@@ -1,0 +1,24 @@
+{
+  "name": "sb08-tests-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Athenes/SB08-tests-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/O-clock-Athenes/SB08-tests-intro/issues"
+  },
+  "homepage": "https://github.com/O-clock-Athenes/SB08-tests-intro#readme",
+  "devDependencies": {
+    "jest": "^30.0.2"
+  }
+}
